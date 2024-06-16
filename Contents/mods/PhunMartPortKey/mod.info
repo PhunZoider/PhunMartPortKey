@@ -4,3 +4,4 @@ id=PhunMartPortKey
 authors=UburGeek
 description=PhunMart addon for vending teleports
 poster=poster.png
+require=PhunTools,PhunMart

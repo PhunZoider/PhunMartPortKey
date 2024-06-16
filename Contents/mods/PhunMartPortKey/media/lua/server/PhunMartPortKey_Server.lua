@@ -16,6 +16,7 @@ if PhunMart then
         -- add the portkey file
         local shop = {
             key = "SHOP:TRAVEL:budget_travel",
+            label = "Budget Travel",
             inherits = "base:shop",
             backgroundImage = "machine-budget-travel",
             filters = {
