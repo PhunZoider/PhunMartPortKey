@@ -1,4 +1,6 @@
 version=1
+id=3270429790
 title=PhunMartPortKey
 description=Simple addon for PhunMart to add ability to vend teleports
 tags=Build 41
+visibility=public

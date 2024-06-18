@@ -26,6 +26,7 @@ if PhunMart then
                 playerObj:setLx(dest.x + 0.5);
                 playerObj:setLy(dest.y + 0.5);
                 playerObj:setLz(dest.z + 0.5);
+                PhunMartCloseOnWanderAway(playerObj)
             end
         end
     end)
