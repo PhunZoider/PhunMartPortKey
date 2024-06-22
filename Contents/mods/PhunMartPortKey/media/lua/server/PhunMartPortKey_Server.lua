@@ -20,7 +20,8 @@ if PhunMart then
             inherits = "base:shop",
             backgroundImage = "machine-budget-travel",
             filters = {
-                files = "PhunMart_PortItems.lua"
+                files = "PhunMart_PortItems.lua",
+                tags = "port"
             }
         }
         PhunMart:queueRawShopToProcess(shop)

@@ -3,6 +3,7 @@ return {{
         label = "Louisville",
         type = "PORT"
     },
+    tags = "port",
     receive = {{
         type = "PORT",
         value = {{
@@ -20,6 +21,7 @@ return {{
         label = "Muldraugh",
         type = "PORT"
     },
+    tags = "port",
     inventory = false,
     receive = {{
         type = "port",
@@ -38,6 +40,7 @@ return {{
         label = "Rosewood",
         type = "PORT"
     },
+    tags = "port",
     inventory = false,
     receive = {{
         type = "port",
@@ -52,6 +55,7 @@ return {{
         label = "Riverside",
         type = "PORT"
     },
+    tags = "port",
     inventory = false,
     receive = {{
         type = "port",
@@ -66,6 +70,7 @@ return {{
         label = "West Point",
         type = "PORT"
     },
+    tags = "port",
     inventory = false,
     receive = {{
         type = "port",
@@ -80,6 +85,7 @@ return {{
         label = "March Ridge",
         type = "PORT"
     },
+    tags = "port",
     inventory = false,
     receive = {{
         type = "port",
