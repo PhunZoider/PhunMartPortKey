@@ -18,6 +18,7 @@ if PhunMart then
             key = "SHOP:TRAVEL:budget_travel",
             label = "Budget Travel",
             inherits = "base:shop",
+            type = "PORT",
             backgroundImage = "machine-budget-travel",
             filters = {
                 files = "PhunMart_PortItems.lua",
