@@ -23,6 +23,10 @@ if PhunMart then
             filters = {
                 files = "PhunMart_PortItems.lua",
                 tags = "port"
+            },
+            sprites = {
+                east = "phunmart_01_4",
+                south = "phunmart_01_5"
             }
         }
         PhunMart:queueRawShopToProcess(shop)
