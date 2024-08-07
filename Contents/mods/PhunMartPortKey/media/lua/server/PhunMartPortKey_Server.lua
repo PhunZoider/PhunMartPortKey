@@ -25,6 +25,8 @@ if PhunMart then
                 tags = "port"
             },
             sprites = {
+                sheet = 3,
+                row = 3,
                 east = "phunmart_01_4",
                 south = "phunmart_01_5"
             }
